@@ -1,8 +1,8 @@
-# Compound Interest Visualizer
+# Monthly Compounding Growth Chart
 
 This tool shows how a starting amount and monthly contributions grow over time with monthly compounding. It returns the ending balance, the total you put in, and the growth on top, and plots the balance year by year with contributions and growth shaded separately.
 
-**Live demo:** https://0xelitesystem.github.io/compound-interest-visualizer/
+**Live demo:** https://0xelitesystem.github.io/monthly-compounding-growth-chart/
 
 ## What it does
 
@@ -42,8 +42,8 @@ Part of a catalog of single-file browser tools and plain-language references, al
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/compound-interest-visualizer
-cd compound-interest-visualizer
+git clone https://github.com/0xelitesystem/monthly-compounding-growth-chart
+cd monthly-compounding-growth-chart
 ```
 
 Open `index.html` in a browser, or serve the folder with `python -m http.server 8000` and visit http://localhost:8000.
